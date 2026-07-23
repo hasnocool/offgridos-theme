@@ -1,0 +1,5 @@
+name: offgridos-theme
+version: 0.1.0
+description: Desktop theme and GNOME appearance defaults for OffGridOS.
+kind: workspace-package
+rootfs: rootfs

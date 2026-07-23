@@ -1,0 +1,12 @@
+[org/gnome/desktop/background]
+picture-uri='file:///usr/share/backgrounds/offgridos-wallpaper.svg'
+picture-uri-dark='file:///usr/share/backgrounds/offgridos-wallpaper.svg'
+
+[org/gnome/desktop/screensaver]
+picture-uri='file:///usr/share/backgrounds/offgridos-wallpaper.svg'
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+
+[org/gnome/shell]
+favorite-apps=['offgridos-installer.desktop','org.gnome.Nautilus.desktop','org.gnome.Terminal.desktop','firefox.desktop']
